@@ -1,0 +1,1 @@
+The PLAN is to make separate interchangeable modules for different types of interface, logic, storage, data-model with different joiners able to make any set of those to work together.
